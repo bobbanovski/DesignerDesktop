@@ -1,0 +1,6 @@
+/build
+/dist
+/.idea
+/__pycache__
+PyDownloader.spec
+wrap with python file and create executable.txt

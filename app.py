@@ -1,8 +1,7 @@
-
 from PyQt5.QtWidgets import *
+
 import sys
 import pydownloader
-
 
 class MainProgram(QDialog, pydownloader.Ui_Dialog):
     def __init__(self):
